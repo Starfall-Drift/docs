@@ -1,10 +1,10 @@
 [book]
-authors = ["Space Wizards Contributors"]
+authors = ["Starfall Contributors"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Space Wizards Development Wiki"
-description = "Tutorial & reference for all Space Wizards Federation projects, including the Robust Toolbox engine and its flagship open source game, Space Station 14."
+title = "Starfall Drift Wiki"
+description = "Wiki and documentation for Starfall Drift, a Space Station 14 fork."
 
 [preprocessor.mermaid]
 
@@ -25,8 +25,8 @@ additional-css = ['theme/compiled/ss14.css']
 default-theme = "navy"
 preferred-dark-theme = "navy"
 
-git-repository-url = "https://github.com/space-wizards/space-station-14"
-edit-url-template = "https://github.com/space-wizards/docs/blob/master/{path}"
+git-repository-url = "https://github.com/Starfall-Drift/Starfall-Drift"
+edit-url-template = "https://github.com/Starfall-Drift/docs/blob/master/{path}"
 
 mathjax-support = true
 curly-quotes = true
